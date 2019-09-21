@@ -1,3 +1,3 @@
-# Online-english-english-dictionary
+# Online english dictionary
 
 用户可以注册和登录该词典，同时将用户信息以及后面查询的历史记录保存到数据库中登录。成功后进入二级菜单，可进行单词，历史记录查询以及返回上一级菜单和退出的操作。
